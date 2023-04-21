@@ -1,0 +1,25 @@
+#dogs-cats {
+    text-align: center;
+    color: blue;
+    border: 1px;
+}
+
+body {
+    background: fixed lightyellow;
+}
+
+.random {
+    text-align: center;
+    color: red;
+    margin: .7rem;
+    border: solid 2px black;
+    box-shadow: 
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgb(0, 0, 0);
+    font-family: cursive;
+}
+
+.textbox {
+    width: 100%;
+    min-width: 200px;
+}
